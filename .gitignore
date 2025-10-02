@@ -1,0 +1,15 @@
+# --- Secrets (CRITICAL) ---
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/serviceAccountKey.json
+
+# --- Flutter/System Junk ---
+digimeds/build/
+digimeds/.dart_tool/
+digimeds/.flutter-plugins
+digimeds/.flutter-plugins-dependencies
+digimeds/.pub/
+digimeds/ios/Pods/
+digimeds/macos/Pods/
+.DS_Store
