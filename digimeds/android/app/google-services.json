@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "425154750765",
+    "project_id": "phoneverification-6099b",
+    "storage_bucket": "phoneverification-6099b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425154750765:android:24b1ab5dbc4b6862838ba4",
+        "android_client_info": {
+          "package_name": "com.example.digiimeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425154750765-2o7dapefvseo1j8f72cgghass6as3m7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvtU6I8PqH1lSSRHI35_z5DXzbYjlAak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425154750765-2o7dapefvseo1j8f72cgghass6as3m7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425154750765-9kv50h1pj9serbe3k5pc2qkajio62br9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somyasoni.digiimeds.123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425154750765:android:9f4060d6348a6561838ba4",
+        "android_client_info": {
+          "package_name": "com.example.digimeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425154750765-2o7dapefvseo1j8f72cgghass6as3m7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvtU6I8PqH1lSSRHI35_z5DXzbYjlAak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425154750765-2o7dapefvseo1j8f72cgghass6as3m7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425154750765-9kv50h1pj9serbe3k5pc2qkajio62br9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somyasoni.digiimeds.123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
